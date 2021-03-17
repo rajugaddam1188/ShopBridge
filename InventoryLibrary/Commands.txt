@@ -1,0 +1,6 @@
+﻿dotnet ef dbcontext scaffold "Server=DESKTOP-SBD8OTO;Database=ShopBridge;Trusted _Connection=True;User Id=Sa;Password=raju; Integrated Security=false;" Microsoft.EntityFrameworkCore.SqlServer -o Entity  -f  -s E:\2021\interview_tasks\ShopBridge\ShopBridge.csproj -p E:\2021\interview_tasks\ShopBridge\InventoryLibrary.csproj
+
+Scaffold-DbContext "Server=DESKTOP-SBD8OTO;Database=ShopBridge;Trus4ted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+dotnet ef dbcontext scaffold "Server=DESKTOP-SBD8OTO;Database=ShopBridge;user id=sa;password=welcome1!" Microsoft.EntityFrameworkCore.SqlServer   --use-database-names    -o EFCORE -c ShopBrideDBContext --force

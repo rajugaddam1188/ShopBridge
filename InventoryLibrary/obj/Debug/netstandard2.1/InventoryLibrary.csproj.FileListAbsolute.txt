@@ -1,0 +1,9 @@
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\bin\Debug\netstandard2.1\InventoryLibrary.deps.json
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\bin\Debug\netstandard2.1\InventoryLibrary.dll
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\bin\Debug\netstandard2.1\InventoryLibrary.pdb
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.AssemblyInfoInputs.cache
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.AssemblyInfo.cs
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.csproj.CoreCompileInputs.cache
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.dll
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.pdb
+E:\2021\interview_tasks\ShopBridge\InventoryLibrary\obj\Debug\netstandard2.1\InventoryLibrary.csprojAssemblyReference.cache
